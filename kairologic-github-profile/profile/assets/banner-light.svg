@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="t"><title id="t">Kairologic Technology</title>
+<rect width="1200" height="320" fill="#F4F7FA"/>
+<g fill="#102A43" opacity=".07"><rect x="930" y="60" width="270" height="56"/><rect x="930" y="132" width="270" height="56"/><rect x="930" y="204" width="270" height="56"/></g>
+<rect x="1010" y="132" width="56" height="56" fill="#16876D" opacity=".9"/>
+<g transform="translate(70 80) scale(2)"><path d="M8 10h17v18H8zM8 31h17v18H8zM8 52h17v18H8zM28 34 51 10h19L43 40zM28 46l15-6 27 30H51z" fill="#102A43"/><path d="M27 33h14v14H27z" fill="#16876D"/></g>
+<text x="262" y="156" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="700" letter-spacing="2" fill="#102A43">KAIROLOGIC</text>
+<text x="266" y="198" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="600" letter-spacing="11" fill="#4B6379">TECHNOLOGY</text>
+<rect x="266" y="226" width="48" height="3" fill="#16876D"/>
+<text x="266" y="266" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#4B6379">Technology built around your work.</text>
+</svg>
